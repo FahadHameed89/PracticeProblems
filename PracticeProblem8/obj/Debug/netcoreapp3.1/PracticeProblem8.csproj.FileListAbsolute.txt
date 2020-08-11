@@ -1,0 +1,13 @@
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.csprojAssemblyReference.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.AssemblyInfoInputs.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.AssemblyInfo.cs
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.csproj.CoreCompileInputs.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\bin\Debug\netcoreapp3.1\PracticeProblem8.exe
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\bin\Debug\netcoreapp3.1\PracticeProblem8.deps.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\bin\Debug\netcoreapp3.1\PracticeProblem8.runtimeconfig.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\bin\Debug\netcoreapp3.1\PracticeProblem8.runtimeconfig.dev.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\bin\Debug\netcoreapp3.1\PracticeProblem8.dll
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\bin\Debug\netcoreapp3.1\PracticeProblem8.pdb
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.dll
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.pdb
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem8\obj\Debug\netcoreapp3.1\PracticeProblem8.genruntimeconfig.cache
