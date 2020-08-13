@@ -1,8 +1,6 @@
-﻿// We are recreating the August 12th assignment with all challenges complete for the purpose of practice!!!
+﻿using System;
 
-using System;
-
-namespace August13Notes
+namespace LetterRemover
 {
     class Program
     {
@@ -10,56 +8,65 @@ namespace August13Notes
         {
             /*
             Title: Letter Remover
-            Purpose: Remove given character from a string
-
-            Author: Fahad Hameed
+            Purpose: Remove given characters from a string.
+            Author: James Grieve
             Last Modified: August 13, 2020
             */
 
-            string userInput, userChar, output="";     // Declare variables
+            string menuChoice = "";
+            
+            Console.WriteLine("Welcome to the letter remover application! You will be prompted to enter both a string and a character, and every instance of that character will be removed from the string.\n");
 
-            Console.WriteLine("This program removes letters from any given string. Please enter a string and a character, and i'll remove the characters you enter from the string and give you a filtered message!");
-
-            Console.WriteLine("Please enter a string!");
-            userInput = Console.ReadLine();
-    
-            Console.WriteLine("Please enter a string to be filtered out!");
-            userChar = Console.ReadLine();
-
-
-            /*
-
-                or each character in the string:
-                    If that character is not the bad char
-                        Add that char to a new string
-
-            */
-
-   /*          for (int i = 0; i < userInput.Length; i++)
+            do
             {
-                if (userInput[i] != userChar[0])
+
+                Console.Write("Type \"Done\" to exit, or press enter to modify a string.");
+                menuChoice = Console.ReadLine();
+                if (menuChoice.ToLower() != "done")
                 {
-                    output += userInput[i];
+                    string userInput, userChar, output = "", replaceWith;
+
+                    Console.Write("Please enter a string from which characters will be removed: ");
+                    userInput = Console.ReadLine().Trim();
+
+                    Console.Write("Please enter character(s) to remove from the string: ");
+                    userChar = Console.ReadLine();
+
+                    Console.Write("Please enter a character to replace these characters with:");
+                    replaceWith = Console.ReadLine();
+                
+                    for (int i = 0; i < userInput.Length; i++)
+                    {
+                        if (!userChar.ToUpper().Contains(userInput.ToUpper()[i]))
+                        {
+                            output += userInput[i];
+                        }
+                        else
+                        {
+                            output += replaceWith;
+                        }
+                    }
+                
+                
+                    /*
+                    for (int i = 0; i < userInput.Length; i++)
+                    {
+                        if (userInput[i] == userChar[0])
+                        {
+                            // If we try to assign output here rather than userInput, it creates an infinite loop because
+                            // we will continuously set output and then decrement, but without changing the string we are
+                            // iterating through, it will check the same character forever.
+                            userInput = userInput.Remove(i, 1);
+                            i--;
+                        }
+                    }
+                    output = userInput;
+                    */
+
+                    Console.WriteLine($"Your modified string is on the next line:\n{output}");
                 }
-            }  
-             */
-
-
-            for (int i = 0; i < userInput.Length; i++)
-            {
-                if (userInput[i] == userChar[0])
-                {
-                    userInput = userInput.Remove(i, 1);
-                    i--;
-                    
-                }
-            } 
-
-
-
-            Console.WriteLine($"Your filtered string is {userInput} !!");
-
-
+            
+            } while (menuChoice.ToLower() != "done");
         }
     }
 }

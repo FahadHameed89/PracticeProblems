@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj": {}
+    "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblems\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj": {
+    "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblems\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj",
+        "projectUniqueName": "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblems\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj",
         "projectName": "PracticeProblem1",
-        "projectPath": "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj",
+        "projectPath": "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblems\\PracticeProblem1\\PracticeProblem1\\PracticeProblem1.csproj",
         "packagesPath": "C:\\Users\\hamee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblem1\\PracticeProblem1\\obj\\",
+        "outputPath": "C:\\Users\\hamee\\OneDrive\\Documents\\TECHCareers\\PracticeProblems\\PracticeProblem1\\PracticeProblem1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamee\\AppData\\Roaming\\NuGet\\NuGet.Config",

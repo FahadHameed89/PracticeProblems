@@ -23,3 +23,16 @@ C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem1\PracticeProblem1\
 C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.dll
 C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.pdb
 C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.genruntimeconfig.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\bin\Debug\netcoreapp3.1\PracticeProblem1.exe
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\bin\Debug\netcoreapp3.1\PracticeProblem1.deps.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\bin\Debug\netcoreapp3.1\PracticeProblem1.runtimeconfig.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\bin\Debug\netcoreapp3.1\PracticeProblem1.runtimeconfig.dev.json
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\bin\Debug\netcoreapp3.1\PracticeProblem1.dll
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\bin\Debug\netcoreapp3.1\PracticeProblem1.pdb
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.csprojAssemblyReference.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.AssemblyInfoInputs.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.AssemblyInfo.cs
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.csproj.CoreCompileInputs.cache
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.dll
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.pdb
+C:\Users\hamee\OneDrive\Documents\TECHCareers\PracticeProblems\PracticeProblem1\PracticeProblem1\obj\Debug\netcoreapp3.1\PracticeProblem1.genruntimeconfig.cache
