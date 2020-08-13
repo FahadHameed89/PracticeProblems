@@ -50,13 +50,14 @@ namespace August13Notes
                 if (userInput[i] == userChar[0])
                 {
                     userInput = userInput.Remove(i, 1);
+                    i--;
                     
                 }
             } 
 
 
 
-            Console.WriteLine($"Your filtered string is {output} !!");
+            Console.WriteLine($"Your filtered string is {userInput} !!");
 
 
         }
