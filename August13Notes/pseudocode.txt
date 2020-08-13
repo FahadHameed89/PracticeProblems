@@ -1,0 +1,33 @@
+Declare variables - userInput
+Prompt the user for a string and read it in
+Prompt the user for a character to remove
+
+Remove all instances of the character from a userInput
+Output the modified string
+
+
+
+
+remove all instances of a character from a string:
+    - build a new string
+    - OR 
+    - use String.Remove to remove characters for a string
+
+    for each character inteh string:
+        if that character is not the 'toBeRemoved' character:
+        add that character to a new string
+
+
+    for each index in teh string:
+        if the character at the index is the bad character:
+            remove the character:
+
+
+Jaames
+
+bad: "a"
+
+0: "J" == "a"
+1: "a" == "a"
+2: "a" == "a"
+3: 
