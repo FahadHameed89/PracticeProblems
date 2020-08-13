@@ -35,23 +35,24 @@ namespace August13Notes
 
             */
 
-            for (int i = 0; i < userInput.Length; i++)
+   /*          for (int i = 0; i < userInput.Length; i++)
             {
                 if (userInput[i] != userChar[0])
                 {
                     output += userInput[i];
                 }
-            } 
+            }  
+             */
 
-/* 
+
             for (int i = 0; i < userInput.Length; i++)
             {
-                if (userInput[i] != userChar[0])
+                if (userInput[i] == userChar[0])
                 {
                     userInput = userInput.Remove(i, 1);
                     
                 }
-            }  */
+            } 
 
 
 
